@@ -1,3 +1,8 @@
+<div align="center">
+        <img src="assets/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67.png" width="900px">
+        <br/>
+</div>
+
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jay Boghani
 
 ## Let's think new
